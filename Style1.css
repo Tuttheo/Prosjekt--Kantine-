@@ -5,3 +5,13 @@ body {
     color: #767575;
     text-align: center;
 }
+
+.meny{
+    position: absolute;
+    left: 15PX;
+    top: 25px;
+    font-size: 22px;
+    cursor: pointer;
+    background-color: #767575;
+    
+}
